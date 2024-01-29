@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "K6lJDvWaiGPO7G+MeaNLGl9NtzCuqGZHkQX7aFBGrXG/0xsKZxkG5gSaZ+kaQTnUTwQ16tsua1xC6C00PHWZrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\zsoml\\Desktop\\WebSocket server\\WebSocket server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zsoml\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.2.0\\microsoft.identitymodel.abstractions.7.2.0.nupkg.sha512",
+    "C:\\Users\\zsoml\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.2.0\\microsoft.identitymodel.jsonwebtokens.7.2.0.nupkg.sha512",
+    "C:\\Users\\zsoml\\.nuget\\packages\\microsoft.identitymodel.logging\\7.2.0\\microsoft.identitymodel.logging.7.2.0.nupkg.sha512",
+    "C:\\Users\\zsoml\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.2.0\\microsoft.identitymodel.tokens.7.2.0.nupkg.sha512",
+    "C:\\Users\\zsoml\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.2.0\\system.identitymodel.tokens.jwt.7.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,21 @@
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\WebSocket server.exe
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\WebSocket server.deps.json
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\WebSocket server.runtimeconfig.json
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\WebSocket server.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\WebSocket server.pdb
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.csproj.AssemblyReference.cache
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.AssemblyInfoInputs.cache
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.AssemblyInfo.cs
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.csproj.CoreCompileInputs.cache
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.dll
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\refint\WebSocket server.dll
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.pdb
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.genruntimeconfig.cache
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\ref\WebSocket server.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zsoml\Desktop\WebSocket server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zsoml\Desktop\WebSocket server\obj\Debug\net7.0\WebSocket server.csproj.CopyComplete
